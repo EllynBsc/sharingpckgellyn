@@ -48,7 +48,7 @@ def clean_data(data):
     return data
 
 def try_me():
-    print('hello world! Trying')
+    print('hello world! Bonjour team')
 
 
 if __name__ == '__main__':
